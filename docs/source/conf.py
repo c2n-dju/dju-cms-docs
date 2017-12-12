@@ -47,8 +47,8 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'DJU CMS Doc'
-copyright = '2017, web@c2n.upsaclay.fr'
-author = 'Fabrice Pardo et volontaires...'
+copyright = '2017 C2N'
+author = 'FP et al.'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
